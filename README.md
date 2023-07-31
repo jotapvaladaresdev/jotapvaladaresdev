@@ -1,4 +1,4 @@
-# Olá, eu sou o João Paulo Valadares!
+# Olá, eu sou João Paulo Valadares!
 
 ## Sobre mim
 - 👨‍💻 Desenvolvedor Full Stack
