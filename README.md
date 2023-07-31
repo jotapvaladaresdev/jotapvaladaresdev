@@ -31,4 +31,4 @@
 
 ## Contato
 - Email: jotapvaladares@icloud.com
-- LinkedIn: [SeuNome](https://www.linkedin.com/in/jotapvaladaresdev)
+- LinkedIn: [João Paulo Valadares](https://www.linkedin.com/in/jotapvaladaresdev)
