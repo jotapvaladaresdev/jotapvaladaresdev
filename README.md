@@ -32,6 +32,3 @@
 ## Contato
 - Email: jotapvaladares@icloud.com
 - LinkedIn: [SeuNome](https://www.linkedin.com/in/jotapvaladaresdev)
-
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jotapvaladaresdev&show_icons=true&count_private=true&hide=contribs&theme=radical)
