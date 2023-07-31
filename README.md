@@ -24,6 +24,7 @@
 - Laravel
 - MySQL
 - PostgreSQL
+- SQL Server
 
 ## Meu Curriculum
 - [PT-BR](https://github.com/jotapvaladaresdev/jotapvaladaresdev/blob/main/JoaoPauloValadaresPTBR.pdf)
