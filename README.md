@@ -26,8 +26,8 @@
 - PostgreSQL
 
 ## Meu Curriculum
-- [PT-BR](link_do_projeto1)
-- [EN-US](link_do_projeto2)
+- [PT-BR](https://github.com/jotapvaladaresdev/jotapvaladaresdev/blob/main/JoaoPauloValadaresPTBR.pdf)
+- [EN-US](https://github.com/jotapvaladaresdev/jotapvaladaresdev/blob/main/JoaoPauloValadaresENUS.pdf)
 
 ## Contato
 - Email: jotapvaladares@icloud.com
